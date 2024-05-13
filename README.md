@@ -1,0 +1,2 @@
+# euclideanDistance
+Minimum Mesafenin Bulunması:
